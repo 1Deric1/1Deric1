@@ -25,4 +25,4 @@
      <img aling="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitehttps://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Muito mais do que apaixonado por tecnologia e mudar o mundo através da programação
+Muito mais do que apaixonado por tecnologia e mudar o mundo através da programação!
