@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou Deric Santos</h1> <p align="center"> 
+<h1 align="center">👋 Olá! Eu sou Deric Santos</h1>
 
 [![Status do Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://dericport.000webhostapp.com/)
 [![Status do Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deric-santos-206620246/)
@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Deric1&size_weight=0.5&count_weight=0.5)
 #
 
-<p align="center"> Sou estudante de Engenharia de Software na Universidade Católica do Salvador. Atualmente trabalho com PHP e estou aprofundando meus estudos em Java. <br><br> Tenho grande interesse por desenvolvimento backend e estou sempre buscando evoluir minhas habilidades, explorar novas tecnologias e enfrentar desafios reais da área.<br><br> Apaixonado por aprender, gosto de transformar conhecimento em soluções práticas e eficientes. Acredito no poder da tecnologia para melhorar a vida das pessoas e estou comprometido em contribuir de forma significativa com projetos e equipes por onde passo. </p>
+<p align="center"> 🎓 Estudante de <strong>Engenharia de Software</strong> na <em>Universidade Católica do Salvador</em><br> 💻 Desenvolvedor backend com foco atual em <strong>PHP</strong> e estudando <strong>Java</strong> paralelamente<br> 🚀 Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas reais<br> 🌱 Sempre buscando novos desafios e atualizando meus conhecimentos </p>
 
 #
     
