@@ -8,7 +8,12 @@
 ![1Deric1 GitHub stats](https://github-readme-stats.vercel.app/api?username=DericSantos&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Deric1&size_weight=0.5&count_weight=0.5)
+#
 
+<p align="center"> Sou estudante de Engenharia de Software na Universidade Católica do Salvador. Atualmente trabalho com PHP e estou aprofundando meus estudos em Java. <br><br> Tenho grande interesse por desenvolvimento backend e estou sempre buscando evoluir minhas habilidades, explorar novas tecnologias e enfrentar desafios reais da área.<br><br> Apaixonado por aprender, gosto de transformar conhecimento em soluções práticas e eficientes. Acredito no poder da tecnologia para melhorar a vida das pessoas e estou comprometido em contribuir de forma significativa com projetos e equipes por onde passo. </p>
+
+#
+    
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style = "display: inline_block"><br/>
