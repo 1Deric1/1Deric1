@@ -1,4 +1,4 @@
-### Olá! Eu sou Deric Santos 👋
+<h1 align="center">👋 Olá! Eu sou Deric Santos</h1> <p align="center"> 
 
 [![Status do Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://dericport.000webhostapp.com/)
 [![Status do Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deric-santos-206620246/)
