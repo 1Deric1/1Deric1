@@ -5,10 +5,7 @@
 [![Status do Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/deric_santos.t/)
 
-![1Deric1 GitHub stats](https://github-readme-stats.vercel.app/api?username=DericSantos&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Deric1&size_weight=0.5&count_weight=0.5)
-#
 
 <p align="center"> 🎓 Estudante de <strong>Engenharia de Software</strong> na <em>Universidade Católica do Salvador</em><br> 💻 Desenvolvedor backend com foco atual em <strong>PHP</strong> e estudando <strong>Java</strong> paralelamente<br> 🚀 Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas reais<br> 🌱 Sempre buscando novos desafios e atualizando meus conhecimentos </p>
 
