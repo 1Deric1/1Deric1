@@ -1,0 +1,14 @@
+ATUALIZAÇÃO DA FOTO DO README
+
+A foto normal do perfil do GitHub e o retrato ASCII do README são arquivos separados.
+
+Para atualizar:
+
+1. Envie dark-v2.svg e light-v2.svg para a raiz do repositório 1Deric1/1Deric1.
+2. Substitua o README.md atual pelo README.md deste pacote.
+3. Confirme o commit.
+4. Recarregue o perfil usando Ctrl + F5.
+
+Os nomes dark-v2.svg e light-v2.svg foram usados para evitar que o GitHub continue exibindo uma versão antiga armazenada em cache.
+
+A pasta assets é opcional. Ela contém a foto usada como base e o ASCII em texto.
