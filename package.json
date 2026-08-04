@@ -1,0 +1,13 @@
+{
+  "name": "deric-github-jet-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animated GitHub contribution jet heatmap for 1Deric1",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}
